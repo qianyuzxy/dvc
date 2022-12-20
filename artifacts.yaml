@@ -1,0 +1,3 @@
+test:
+  path: models/model.h5
+  type: model
